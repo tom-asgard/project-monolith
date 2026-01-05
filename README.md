@@ -130,9 +130,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Project Monolith** is intended for ethical hacking and cybersecurity purposes only. The authors and contributors do not condone illegal activities or misuse of this tool.
 
-### Contributors
+## Contributors
 [Alan Thomas](https://github.com/tom-asgard)
 
+## My Contribution
+- Contributed as a team member to the project implementation.
+- Assisted in development, testing, and documentation.
+- Applied Linux-based tools and concepts during the project work.
+- Collaborated using Git for version control.
 ---
 
 **Follow Us**  
